@@ -1,0 +1,40 @@
+Feature,Importance
+cat__Risk_Level_Low,0.15227564
+cat__SIEM_Installed_No,0.085429326
+cat__EDR_Installed_Yes,0.0709588
+cat__EDR_Installed_No,0.06910143
+cat__SIEM_Installed_Yes,0.061235704
+cat__Firewall_Installed_Yes,0.055646364
+cat__Main_Threat_Concern_Ransomware,0.05452159
+cat__Firewall_Installed_No,0.053964585
+cat__Risk_Level_Medium,0.05114106
+cat__Cloud_Usage_Low,0.043854237
+cat__Cloud_Usage_High,0.04085081
+remainder__Employees,0.030190585
+cat__Main_Threat_Concern_Phishing,0.022351718
+cat__Main_Threat_Concern_APT,0.018816723
+cat__Cloud_Usage_Medium,0.017423293
+cat__Main_Threat_Concern_Data Breach,0.016876252
+cat__Industry_Education,0.014692217
+cat__Main_Threat_Concern_OT Attack,0.014276729
+cat__Main_Threat_Concern_DDoS,0.014007998
+cat__Main_Threat_Concern_Insider Threat,0.01268028
+cat__Industry_Technology,0.012349939
+cat__Security_Budget_Low,0.011920079
+cat__Industry_Healthcare,0.009742057
+cat__Compliance_Requirement_Unknown,0.008331652
+cat__Risk_Level_High,0.008309084
+cat__Risk_Level_Critical,0.008002822
+cat__Industry_Finance,0.007368592
+cat__Industry_Government,0.0063634594
+cat__Main_Threat_Concern_Cloud Security,0.006031899
+cat__Compliance_Requirement_PCI-DSS,0.0046292264
+cat__Compliance_Requirement_SOC2,0.0034838615
+cat__Industry_Manufacturing,0.0033989728
+cat__Compliance_Requirement_NIST,0.0025140175
+cat__Industry_Retail,0.002144677
+cat__Security_Budget_High,0.0019987333
+cat__Security_Budget_Medium,0.0017839449
+cat__Compliance_Requirement_ISO27001,0.001099883
+cat__Industry_Energy,0.00023175278
+cat__Compliance_Requirement_HIPAA,0.0
